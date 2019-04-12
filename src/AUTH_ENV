@@ -1,0 +1,3 @@
+# define the env variables used by server.js
+export AUTH0_DOMAIN=YOUR_APP_DOMAIN
+export AUTH0_API_AUDIENCE=YOUR_APP_AUDIENCE
